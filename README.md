@@ -1,2 +1,10 @@
-# portfolio_2
-Imrulnyc.github.io
+# Data Scientist
+# Imrul Hassan
+
+### Education 
+Bsc, Computer Science 
+
+## Project
+ # 1
+ # 2
+ # 3
